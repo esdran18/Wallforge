@@ -1,5 +1,5 @@
 # Wallforge
-Codigo para validacione de volcamiento, deslizamiento y capacidad portante de muros en voladizo (libre)
+Codigo para validacion de volcamiento, deslizamiento y capacidad portante de muros en voladizo (libre)
 
 INSTALACIÓN:
 1) descomprimir el archivo "WallfForge" en el sitio deseado
